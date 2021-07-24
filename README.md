@@ -23,3 +23,5 @@ const Sergio = {
    challenge: "I'm working on being the best version of myself, every day.",
 }
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolvargas95)](https://github.com/sergiolvargas95/github-readme-stats)
