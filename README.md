@@ -26,7 +26,7 @@ const Sergio = {
          css: ["Bootstrap", "SASS"]
       },
    },
-   currentOccupation: ["analysis and development of information systems student, Frontend developer, open for job opportunities"],
+   currentOccupation: ["analysis and development of information systems student, Frontend Dev, open for job opportunities"],
    challenge: "I'm working on being the best version of myself, every day.",
 }
 ```
