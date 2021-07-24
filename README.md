@@ -24,4 +24,7 @@ const Sergio = {
 }
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolvargas95)](https://github.com/sergiolvargas95/github-readme-stats)
+<h2 align="center">Github stats :bar_chart:</h2>
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolvargas95&langs_count=10&theme=tokyonight&layout=compact" alt="sergiolvargas95 :: Top Langs" /></p>
