@@ -18,7 +18,7 @@ I consider myself someone who loves to learn, I love learning new things all the
 ```javascript
 const Sergio = {
   pronouns: "he" | "him",
-   code: [JavaScript, HTML, CSS, Python],
+   code: [JavaScript, HTML, CSS, Python, PHP, MySQL],
    tools: [Figma, Webpack, VScode, Git, ESLint],
    technologies: {
       frontEnd: {
