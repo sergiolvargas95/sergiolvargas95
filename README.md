@@ -2,9 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
  
-I am an electronic engineer passionate about programming, therefore I decided to start my career as a web developer, at the moment I work as a programming and robotics teacher but I am looking for the opportunity to work as a Frontend developer.
-
-I consider myself someone who loves to learn, I love learning new things all the time, not just programming. I like to play musical instruments, do sports and learn about space. Working as a teacher has allowed me to have good soft skills, such as working in a team, being resilient and proactive.
+I am a Staff developer at SIESA S.A I consider myself someone who loves to learn, I love learning new things all the time, not just programming. I like to play musical instruments, do sports and learn about space. Working as a teacher has allowed me to have good soft skills, such as working in a team, being resilient and proactive.
 
 <p><em>Frontend Developer Student at <a href="https://platzi.com/">Platzi</a> and Analysis and Development of information systems Student at <a href="https://www.sena.edu.co/">SENA</em></p>
 
