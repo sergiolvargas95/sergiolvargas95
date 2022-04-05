@@ -13,7 +13,7 @@ I am a Staff developer at SIESA S.A and Programming teacher; I consider myself s
 
 ### A little more about me...  
 
-```
+```javascript
 const Sergio = {
   pronouns: "he" | "him",
    code: [JavaScript, HTML, CSS, Python, PHP, MySQL],
