@@ -13,18 +13,22 @@ I am a Staff developer at SIESA S.A and Programming teacher; I consider myself s
 
 ### A little more about me...  
 
-```javascript
+```
 const Sergio = {
   pronouns: "he" | "him",
    code: [JavaScript, HTML, CSS, Python, PHP, MySQL],
    tools: [Figma, Webpack, VScode, Git, ESLint],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
+         js: ["React", "Redux", "Angular"],
          css: ["Bootstrap", "SASS"]
       },
+      backEnd: {
+         php: ["Laravel", "Yii2"],
+         db: ["MySql"],
+      },
    },
-   currentOccupation: ["analysis and development of information systems student, Frontend Dev, open for job opportunities"],
+   currentOccupation: ["analysis and development of information systems student, Fullstack Dev"],
    challenge: "I'm working on being the best version of myself, every day.",
 }
 ```
