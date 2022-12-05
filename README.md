@@ -20,12 +20,13 @@ const Sergio = {
    tools: [Figma, Webpack, VScode, Git, ESLint],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "Angular"],
+         js: ["Angular"],
          css: ["Bootstrap", "SASS"]
       },
       backEnd: {
          php: ["Laravel", "Yii2"],
          db: ["MySql"],
+         python: ["Django"],
       },
    },
    currentOccupation: ["analysis and development of information systems student, Fullstack Dev"],
