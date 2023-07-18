@@ -26,10 +26,9 @@ const Sergio = {
       backEnd: {
          php: ["Laravel", "Yii2"],
          db: ["MySql"],
-         python: ["Django"],
       },
    },
-   currentOccupation: ["analysis and development of information systems student, Fullstack Dev"],
+   currentOccupation: ["Fullstack Dev"],
    challenge: "I'm working on being the best version of myself, every day.",
 }
 ```
