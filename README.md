@@ -14,7 +14,7 @@ I am a Software Engineer at SIESA S.A and Programming teacher; I consider myself
 ```javascript
 const Sergio = {
   pronouns: "he" | "him",
-   code: [JavaScript, HTML, CSS, Python, PHP],
+   code: [JavaScript, HTML, CSS, Python, PHP, Java],
    tools: [Figma, Webpack, VScode, Git, ESLint],
    technologies: {
       frontEnd: {
