@@ -22,8 +22,7 @@ const Sergio = {
          css: ["Bootstrap", "SASS"]
       },
       backEnd: {
-         php: ["Yii2"],
-         python: ["Django"],
+         java: ["Spring Framework"],
          db: ["MySql"],
       },
    },
