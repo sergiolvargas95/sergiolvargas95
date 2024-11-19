@@ -22,8 +22,8 @@ const Sergio = {
          css: ["Bootstrap", "SASS"]
       },
       backEnd: {
-         java: ["Spring Framework"],
-         db: ["MySql"],
+         PHP: ["Yii2, Laravel"],
+         db: ["MySql", "Postgress"],
       },
    },
    currentOccupation: ["Fullstack Dev"],
