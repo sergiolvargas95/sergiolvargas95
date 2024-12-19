@@ -23,7 +23,7 @@ const Sergio = {
       },
       backEnd: {
          Java: ["SpringBoot"],
-         PHP: ["Yii2, Laravel"],
+         PHP: ["Yii2", "Laravel"],
          db: ["MySql", "Postgress"],
       },
    },
