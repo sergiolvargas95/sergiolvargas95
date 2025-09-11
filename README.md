@@ -15,7 +15,7 @@ I am a Software Engineer at SIESA S.A.S and Programming teacher; I consider myse
 const Sergio = {
   pronouns: "he" | "him",
    code: [JavaScript, HTML, CSS, Python, PHP, Java],
-   tools: [Figma, Webpack, VScode, Git, ESLint],
+   tools: [Figma, Webpack, VScode, Git, ESLint, Docker],
    technologies: {
       frontEnd: {
          js: ["Angular"],
