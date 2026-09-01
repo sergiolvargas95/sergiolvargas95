@@ -23,8 +23,8 @@ const Sergio = {
       },
       backEnd: {
          Java: ["Spring Framework"],
-         PHP: ["Yii2", "Laravel"],
-         db: ["MySql", "Postgress"],
+         Python: ["Django", "FastAPI"],
+         db: ["MySql", "Postgress", "DynamoDB],
       },
    },
    currentOccupation: ["Fullstack Dev"],
