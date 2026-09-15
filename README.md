@@ -24,7 +24,7 @@ const Sergio = {
       backEnd: {
          Java: ["Spring Framework"],
          Python: ["Django", "FastAPI"],
-         db: ["MySql", "Postgress", "DynamoDB],
+         db: ["MySql", "Postgress", "DynamoDB"],
       },
    },
    currentOccupation: ["Fullstack Dev"],
